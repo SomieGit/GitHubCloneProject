@@ -1,1 +1,1 @@
-This is a description of my repo
+This task is about branching and conflict resolution.
